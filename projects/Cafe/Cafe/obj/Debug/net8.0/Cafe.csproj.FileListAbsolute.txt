@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Cafe\Cafe\bin\Debug\net8.0\Cafe.exe
+C:\Users\dell\source\repos\Cafe\Cafe\bin\Debug\net8.0\Cafe.deps.json
+C:\Users\dell\source\repos\Cafe\Cafe\bin\Debug\net8.0\Cafe.runtimeconfig.json
+C:\Users\dell\source\repos\Cafe\Cafe\bin\Debug\net8.0\Cafe.dll
+C:\Users\dell\source\repos\Cafe\Cafe\bin\Debug\net8.0\Cafe.pdb
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.AssemblyInfo.cs
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.dll
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\refint\Cafe.dll
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.pdb
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\Cafe.genruntimeconfig.cache
+C:\Users\dell\source\repos\Cafe\Cafe\obj\Debug\net8.0\ref\Cafe.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\bin\Debug\net8.0\day2prgm1.exe
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\bin\Debug\net8.0\day2prgm1.deps.json
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\bin\Debug\net8.0\day2prgm1.runtimeconfig.json
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\bin\Debug\net8.0\day2prgm1.dll
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\bin\Debug\net8.0\day2prgm1.pdb
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.AssemblyInfo.cs
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.dll
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\refint\day2prgm1.dll
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.pdb
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\day2prgm1.genruntimeconfig.cache
+C:\Users\dell\source\repos\day2prgm1\day2prgm1\obj\Debug\net8.0\ref\day2prgm1.dll

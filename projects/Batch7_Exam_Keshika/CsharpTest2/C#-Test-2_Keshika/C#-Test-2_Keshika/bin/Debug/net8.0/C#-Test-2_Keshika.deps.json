@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#-Test-2_Keshika/1.0.0": {
+        "runtime": {
+          "C#-Test-2_Keshika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#-Test-2_Keshika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

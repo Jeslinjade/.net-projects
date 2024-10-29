@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\bin\Debug\net8.0\CsharpTest1_Keshika.exe
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\bin\Debug\net8.0\CsharpTest1_Keshika.deps.json
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\bin\Debug\net8.0\CsharpTest1_Keshika.runtimeconfig.json
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\bin\Debug\net8.0\CsharpTest1_Keshika.dll
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\bin\Debug\net8.0\CsharpTest1_Keshika.pdb
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.AssemblyInfo.cs
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.dll
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\refint\CsharpTest1_Keshika.dll
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.pdb
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\CsharpTest1_Keshika.genruntimeconfig.cache
+C:\Users\dell\source\repos\Batch7_Exam_Keshika\CsharpTest1_Keshika\CsharpTest1_Keshika\obj\Debug\net8.0\ref\CsharpTest1_Keshika.dll

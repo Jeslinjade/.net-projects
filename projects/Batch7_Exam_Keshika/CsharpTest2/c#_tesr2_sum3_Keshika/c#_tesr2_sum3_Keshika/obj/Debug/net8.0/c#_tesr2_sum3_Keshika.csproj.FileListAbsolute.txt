@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\bin\Debug\net8.0\c#_tesr2_sum3_Keshika.exe
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\bin\Debug\net8.0\c#_tesr2_sum3_Keshika.deps.json
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\bin\Debug\net8.0\c#_tesr2_sum3_Keshika.runtimeconfig.json
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\bin\Debug\net8.0\c#_tesr2_sum3_Keshika.dll
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\bin\Debug\net8.0\c#_tesr2_sum3_Keshika.pdb
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.AssemblyInfo.cs
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.dll
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\refint\c#_tesr2_sum3_Keshika.dll
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.pdb
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\c#_tesr2_sum3_Keshika.genruntimeconfig.cache
+C:\Users\dell\source\repos\c#_tesr2_sum3_Keshika\c#_tesr2_sum3_Keshika\obj\Debug\net8.0\ref\c#_tesr2_sum3_Keshika.dll

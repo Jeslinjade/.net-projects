@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\case stdy oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|c:\\users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\iicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|solutionrelative:case stdy oops\\iicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|c:\\users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\icecreambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|solutionrelative:case stdy oops\\icecreambase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|c:\\users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|solutionrelative:case stdy oops\\icecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|c:\\users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\specialicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|solutionrelative:case stdy oops\\specialicecream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|c:\\users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A493D50-FC94-4EAD-B8CF-BAEE06E49AC3}|case stdy oops\\case stdy oops.csproj|solutionrelative:case stdy oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\Program.cs",
+              "RelativeDocumentMoniker": "case stdy oops\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\Program.cs",
+              "RelativeToolTip": "case stdy oops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:34:47.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecialIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\SpecialIceCream.cs",
+              "RelativeDocumentMoniker": "case stdy oops\\SpecialIceCream.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\SpecialIceCream.cs",
+              "RelativeToolTip": "case stdy oops\\SpecialIceCream.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:54:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IceCream.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IceCream.cs",
+              "RelativeDocumentMoniker": "case stdy oops\\IceCream.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IceCream.cs",
+              "RelativeToolTip": "case stdy oops\\IceCream.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:53:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IceCreamBase.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IceCreamBase.cs",
+              "RelativeDocumentMoniker": "case stdy oops\\IceCreamBase.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IceCreamBase.cs",
+              "RelativeToolTip": "case stdy oops\\IceCreamBase.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:51:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IIceCream.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IIceCream.cs",
+              "RelativeDocumentMoniker": "case stdy oops\\IIceCream.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\case stdy oops\\case stdy oops\\IIceCream.cs",
+              "RelativeToolTip": "case stdy oops\\IIceCream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:50:09.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

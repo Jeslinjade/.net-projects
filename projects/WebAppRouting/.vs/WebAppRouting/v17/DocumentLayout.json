@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|c:\\users\\dell\\source\\repos\\webapprouting\\webapprouting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|solutionrelative:webapprouting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|c:\\users\\dell\\source\\repos\\webapprouting\\webapprouting\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|solutionrelative:webapprouting\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|c:\\users\\dell\\source\\repos\\webapprouting\\webapprouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|solutionrelative:webapprouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|c:\\users\\dell\\source\\repos\\webapprouting\\webapprouting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D84BB6E2-FCDF-4F75-BF0D-615C25AD689C}|WebAppRouting\\WebAppRouting.csproj|solutionrelative:webapprouting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAppRouting\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAppRouting\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:42:20.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAppRouting\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAppRouting\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:25:07.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppRouting\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Program.cs",
+              "RelativeToolTip": "WebAppRouting\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:29:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAppRouting\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WebAppRouting\\WebAppRouting\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAppRouting\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:26:16.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

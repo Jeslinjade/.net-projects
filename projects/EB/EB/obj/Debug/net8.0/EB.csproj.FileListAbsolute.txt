@@ -1,0 +1,14 @@
+C:\Users\dell\.net training\EB\EB\bin\Debug\net8.0\EB.exe
+C:\Users\dell\.net training\EB\EB\bin\Debug\net8.0\EB.deps.json
+C:\Users\dell\.net training\EB\EB\bin\Debug\net8.0\EB.runtimeconfig.json
+C:\Users\dell\.net training\EB\EB\bin\Debug\net8.0\EB.dll
+C:\Users\dell\.net training\EB\EB\bin\Debug\net8.0\EB.pdb
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.AssemblyInfoInputs.cache
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.AssemblyInfo.cs
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.csproj.CoreCompileInputs.cache
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.dll
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\refint\EB.dll
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.pdb
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\EB.genruntimeconfig.cache
+C:\Users\dell\.net training\EB\EB\obj\Debug\net8.0\ref\EB.dll

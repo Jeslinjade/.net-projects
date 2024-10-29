@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\keshika_webapi\\DbFirstApproach1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:models\\universitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|c:\\keshika_webapi\\dbfirstapproach1\\dbfirstapproach1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69D89168-BFCA-458A-BFE2-FCF7685CE863}|DbFirstApproach1.csproj|solutionrelative:dbfirstapproach1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:35:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:50:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAIwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:49:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:49:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversitydbContext.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Models\\UniversitydbContext.cs",
+              "RelativeDocumentMoniker": "Models\\UniversitydbContext.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Models\\UniversitydbContext.cs",
+              "RelativeToolTip": "Models\\UniversitydbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:09:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T12:02:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:07:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T11:55:05.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbFirstApproach1.csproj",
+              "DocumentMoniker": "C:\\keshika_webapi\\DbFirstApproach1\\DbFirstApproach1.csproj",
+              "RelativeDocumentMoniker": "DbFirstApproach1.csproj",
+              "ToolTip": "C:\\keshika_webapi\\DbFirstApproach1\\DbFirstApproach1.csproj",
+              "RelativeToolTip": "DbFirstApproach1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T10:12:26.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\dict\dict\bin\Debug\net8.0\dict.exe
+C:\Users\dell\source\repos\dict\dict\bin\Debug\net8.0\dict.deps.json
+C:\Users\dell\source\repos\dict\dict\bin\Debug\net8.0\dict.runtimeconfig.json
+C:\Users\dell\source\repos\dict\dict\bin\Debug\net8.0\dict.dll
+C:\Users\dell\source\repos\dict\dict\bin\Debug\net8.0\dict.pdb
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.AssemblyInfo.cs
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.dll
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\refint\dict.dll
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.pdb
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\dict.genruntimeconfig.cache
+C:\Users\dell\source\repos\dict\dict\obj\Debug\net8.0\ref\dict.dll

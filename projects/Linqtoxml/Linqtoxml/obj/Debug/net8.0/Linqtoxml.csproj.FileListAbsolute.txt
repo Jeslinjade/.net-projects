@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\bin\Debug\net8.0\Linqtoxml.exe
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\bin\Debug\net8.0\Linqtoxml.deps.json
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\bin\Debug\net8.0\Linqtoxml.runtimeconfig.json
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\bin\Debug\net8.0\Linqtoxml.dll
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\bin\Debug\net8.0\Linqtoxml.pdb
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.AssemblyInfo.cs
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.dll
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\refint\Linqtoxml.dll
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.pdb
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\Linqtoxml.genruntimeconfig.cache
+C:\Users\dell\source\repos\Linqtoxml\Linqtoxml\obj\Debug\net8.0\ref\Linqtoxml.dll

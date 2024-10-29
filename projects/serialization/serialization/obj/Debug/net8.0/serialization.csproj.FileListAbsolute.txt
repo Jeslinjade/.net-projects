@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\serialization\serialization\bin\Debug\net8.0\serialization.exe
+C:\Users\dell\source\repos\serialization\serialization\bin\Debug\net8.0\serialization.deps.json
+C:\Users\dell\source\repos\serialization\serialization\bin\Debug\net8.0\serialization.runtimeconfig.json
+C:\Users\dell\source\repos\serialization\serialization\bin\Debug\net8.0\serialization.dll
+C:\Users\dell\source\repos\serialization\serialization\bin\Debug\net8.0\serialization.pdb
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.AssemblyInfo.cs
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.dll
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\refint\serialization.dll
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.pdb
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\serialization.genruntimeconfig.cache
+C:\Users\dell\source\repos\serialization\serialization\obj\Debug\net8.0\ref\serialization.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\bin\Debug\net8.0\Multithreadinglock.exe
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\bin\Debug\net8.0\Multithreadinglock.deps.json
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\bin\Debug\net8.0\Multithreadinglock.runtimeconfig.json
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\bin\Debug\net8.0\Multithreadinglock.dll
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\bin\Debug\net8.0\Multithreadinglock.pdb
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.AssemblyInfo.cs
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.dll
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\refint\Multithreadinglock.dll
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.pdb
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\Multithreadinglock.genruntimeconfig.cache
+C:\Users\dell\source\repos\Multithreadinglock\Multithreadinglock\obj\Debug\net8.0\ref\Multithreadinglock.dll

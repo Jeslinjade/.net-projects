@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\dbcontext\\productcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\dbcontext\\productcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|c:\\users\\dell\\source\\repos\\productmicroservices\\productmicroservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FAC2683-3D45-425F-819A-1673298ACB05}|ProductMicroservices\\ProductMicroservices.csproj|solutionrelative:productmicroservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\DBContext\\ProductContextcs.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\DBContext\\ProductContextcs.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\DBContext\\ProductContextcs.cs",
+              "RelativeToolTip": "ProductMicroservices\\DBContext\\ProductContextcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:05:20.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductMicroservices\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:59:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Model\\Category.cs",
+              "RelativeToolTip": "ProductMicroservices\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:34:37.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProductMicroservices\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:48:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Program.cs",
+              "RelativeToolTip": "ProductMicroservices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:41:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ProductMicroservices\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:48:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ProductMicroservices\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\Model\\Product.cs",
+              "RelativeToolTip": "ProductMicroservices\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:27:01.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductMicroservices\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\ProductMicroservices\\ProductMicroservices\\appsettings.json",
+              "RelativeToolTip": "ProductMicroservices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T11:40:50.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

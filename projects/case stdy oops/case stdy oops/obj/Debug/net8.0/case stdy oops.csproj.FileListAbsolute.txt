@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\bin\Debug\net8.0\case stdy oops.exe
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\bin\Debug\net8.0\case stdy oops.deps.json
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\bin\Debug\net8.0\case stdy oops.runtimeconfig.json
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\bin\Debug\net8.0\case stdy oops.dll
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\bin\Debug\net8.0\case stdy oops.pdb
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.AssemblyInfo.cs
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.dll
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\refint\case stdy oops.dll
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.pdb
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\case stdy oops.genruntimeconfig.cache
+C:\Users\dell\source\repos\case stdy oops\case stdy oops\obj\Debug\net8.0\ref\case stdy oops.dll

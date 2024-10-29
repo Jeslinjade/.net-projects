@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|c:\\users\\dell\\source\\repos\\database firstapproach with one table\\database firstapproach with one table\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|solutionrelative:database firstapproach with one table\\controllers\\tblcountriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|c:\\users\\dell\\source\\repos\\database firstapproach with one table\\database firstapproach with one table\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|solutionrelative:database firstapproach with one table\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|c:\\users\\dell\\source\\repos\\database firstapproach with one table\\database firstapproach with one table\\models\\countrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|solutionrelative:database firstapproach with one table\\models\\countrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|c:\\users\\dell\\source\\repos\\database firstapproach with one table\\database firstapproach with one table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364D9F35-8A77-45B4-B2D1-0A4E17AB0DBD}|Database firstapproach with one table\\Database firstapproach with one table.csproj|solutionrelative:database firstapproach with one table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TblCountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Controllers\\TblCountriesController.cs",
+              "RelativeDocumentMoniker": "Database firstapproach with one table\\Controllers\\TblCountriesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Controllers\\TblCountriesController.cs",
+              "RelativeToolTip": "Database firstapproach with one table\\Controllers\\TblCountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:06:21.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Program.cs",
+              "RelativeDocumentMoniker": "Database firstapproach with one table\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Program.cs",
+              "RelativeToolTip": "Database firstapproach with one table\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:49:22.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\appsettings.json",
+              "RelativeDocumentMoniker": "Database firstapproach with one table\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\appsettings.json",
+              "RelativeToolTip": "Database firstapproach with one table\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T06:39:58.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Models\\CountryDbContext.cs",
+              "RelativeDocumentMoniker": "Database firstapproach with one table\\Models\\CountryDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Database firstapproach with one table\\Database firstapproach with one table\\Models\\CountryDbContext.cs",
+              "RelativeToolTip": "Database firstapproach with one table\\Models\\CountryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:19:45.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

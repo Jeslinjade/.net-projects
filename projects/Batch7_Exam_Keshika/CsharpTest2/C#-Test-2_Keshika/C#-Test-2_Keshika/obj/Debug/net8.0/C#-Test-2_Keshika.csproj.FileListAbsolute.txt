@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\bin\Debug\net8.0\C#-Test-2_Keshika.exe
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\bin\Debug\net8.0\C#-Test-2_Keshika.deps.json
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\bin\Debug\net8.0\C#-Test-2_Keshika.runtimeconfig.json
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\bin\Debug\net8.0\C#-Test-2_Keshika.dll
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\bin\Debug\net8.0\C#-Test-2_Keshika.pdb
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.AssemblyInfo.cs
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.dll
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\refint\C#-Test-2_Keshika.dll
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.pdb
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\C#-Test-2_Keshika.genruntimeconfig.cache
+C:\Users\dell\source\repos\C#-Test-2_Keshika\C#-Test-2_Keshika\obj\Debug\net8.0\ref\C#-Test-2_Keshika.dll

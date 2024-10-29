@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\bin\Debug\net8.0\Mulltithreading.exe
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\bin\Debug\net8.0\Mulltithreading.deps.json
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\bin\Debug\net8.0\Mulltithreading.runtimeconfig.json
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\bin\Debug\net8.0\Mulltithreading.dll
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\bin\Debug\net8.0\Mulltithreading.pdb
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.AssemblyInfo.cs
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.dll
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\refint\Mulltithreading.dll
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.pdb
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\Mulltithreading.genruntimeconfig.cache
+C:\Users\dell\source\repos\Mulltithreading\Mulltithreading\obj\Debug\net8.0\ref\Mulltithreading.dll

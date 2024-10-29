@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreadinglock", "Multithreadinglock\Multithreadinglock.csproj", "{7750B947-0F94-4C68-A77A-234E15A12704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7750B947-0F94-4C68-A77A-234E15A12704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7750B947-0F94-4C68-A77A-234E15A12704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7750B947-0F94-4C68-A77A-234E15A12704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7750B947-0F94-4C68-A77A-234E15A12704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0307CB49-3BDD-42CA-B526-209CD2EDF3B9}
+	EndGlobalSection
+EndGlobal

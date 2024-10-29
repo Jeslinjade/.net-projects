@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.AssemblyInfo.cs
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\solve\solve\bin\Debug\net8.0\solve.exe
+C:\Users\dell\source\repos\solve\solve\bin\Debug\net8.0\solve.deps.json
+C:\Users\dell\source\repos\solve\solve\bin\Debug\net8.0\solve.runtimeconfig.json
+C:\Users\dell\source\repos\solve\solve\bin\Debug\net8.0\solve.dll
+C:\Users\dell\source\repos\solve\solve\bin\Debug\net8.0\solve.pdb
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.dll
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\refint\solve.dll
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.pdb
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\solve.genruntimeconfig.cache
+C:\Users\dell\source\repos\solve\solve\obj\Debug\net8.0\ref\solve.dll

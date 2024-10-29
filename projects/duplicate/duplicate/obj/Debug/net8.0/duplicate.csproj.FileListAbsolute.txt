@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\duplicate\duplicate\bin\Debug\net8.0\duplicate.exe
+C:\Users\dell\source\repos\duplicate\duplicate\bin\Debug\net8.0\duplicate.deps.json
+C:\Users\dell\source\repos\duplicate\duplicate\bin\Debug\net8.0\duplicate.runtimeconfig.json
+C:\Users\dell\source\repos\duplicate\duplicate\bin\Debug\net8.0\duplicate.dll
+C:\Users\dell\source\repos\duplicate\duplicate\bin\Debug\net8.0\duplicate.pdb
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.AssemblyInfo.cs
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.dll
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\refint\duplicate.dll
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.pdb
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\duplicate.genruntimeconfig.cache
+C:\Users\dell\source\repos\duplicate\duplicate\obj\Debug\net8.0\ref\duplicate.dll

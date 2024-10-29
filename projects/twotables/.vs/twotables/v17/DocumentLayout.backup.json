@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\twotables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\models\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\models\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\repository\\tutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\repository\\tutorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\article\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\article\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\models\\tutorialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\models\\tutorialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\twotables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\twotables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|c:\\users\\dell\\source\\repos\\twotables\\twotables\\migrations\\20241022112134_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F780CF-2407-4ECA-9F2F-A261A8F363C3}|twotables\\twotables.csproj|solutionrelative:twotables\\migrations\\20241022112134_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TutorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\TutorialRepository.cs",
+              "RelativeDocumentMoniker": "twotables\\Repository\\TutorialRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\TutorialRepository.cs",
+              "RelativeToolTip": "twotables\\Repository\\TutorialRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:09:11.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:24:29.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "twotables\\Repository\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "twotables\\Repository\\ArticleRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:27:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\Tutorial.cs",
+              "RelativeDocumentMoniker": "twotables\\Models\\Tutorial.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\Tutorial.cs",
+              "RelativeToolTip": "twotables\\Models\\Tutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:16:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "twotables\\Repository\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "twotables\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:21:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Article\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:21:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Article\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:20:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Edit.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Article\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Edit.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Article\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:22:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Delete.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Article\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Delete.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Article\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:23:17.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "twotables\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "twotables\\Controllers\\ArticleController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:13:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "twotables\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\Article.cs",
+              "RelativeToolTip": "twotables\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:09:36.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\appsettings.json",
+              "RelativeDocumentMoniker": "twotables\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\appsettings.json",
+              "RelativeToolTip": "twotables\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T11:51:11.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "twotables\\Views\\Article\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "twotables\\Views\\Article\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T12:19:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TutorialDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\TutorialDbContext.cs",
+              "RelativeDocumentMoniker": "twotables\\Models\\TutorialDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Models\\TutorialDbContext.cs",
+              "RelativeToolTip": "twotables\\Models\\TutorialDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:24:35.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Program.cs",
+              "RelativeDocumentMoniker": "twotables\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Program.cs",
+              "RelativeToolTip": "twotables\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:19:02.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241022112134_m1.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Migrations\\20241022112134_m1.cs",
+              "RelativeDocumentMoniker": "twotables\\Migrations\\20241022112134_m1.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\Migrations\\20241022112134_m1.cs",
+              "RelativeToolTip": "twotables\\Migrations\\20241022112134_m1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:21:34.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "twotables.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\twotables.csproj",
+              "RelativeDocumentMoniker": "twotables\\twotables.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\twotables\\twotables\\twotables.csproj",
+              "RelativeToolTip": "twotables\\twotables.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T09:20:27.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

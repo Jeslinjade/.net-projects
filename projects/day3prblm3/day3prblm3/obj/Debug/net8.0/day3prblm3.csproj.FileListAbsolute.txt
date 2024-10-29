@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\bin\Debug\net8.0\day3prblm3.exe
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\bin\Debug\net8.0\day3prblm3.deps.json
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\bin\Debug\net8.0\day3prblm3.runtimeconfig.json
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\bin\Debug\net8.0\day3prblm3.dll
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\bin\Debug\net8.0\day3prblm3.pdb
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.AssemblyInfo.cs
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.dll
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\refint\day3prblm3.dll
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.pdb
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\day3prblm3.genruntimeconfig.cache
+C:\Users\dell\source\repos\day3prblm3\day3prblm3\obj\Debug\net8.0\ref\day3prblm3.dll

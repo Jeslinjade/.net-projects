@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCDBD4-97C0-460F-BC92-A20851E01AF1}|WebApplication3\\WebApplication3.csproj|c:\\users\\dell\\source\\repos\\webapplication3\\webapplication3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3DCDBD4-97C0-460F-BC92-A20851E01AF1}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-23T07:10:16.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

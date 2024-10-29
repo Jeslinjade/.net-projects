@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DbFirstApproach1.props" />
+</Project>

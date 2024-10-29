@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\c#test2_sum2_Keshika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466F5B74-8496-48B6-A9B1-CADA7582EA55}|c#test2_sum2_Keshika\\c#test2_sum2_Keshika.csproj|c:\\users\\dell\\source\\repos\\c#test2_sum2_keshika\\c#test2_sum2_keshika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466F5B74-8496-48B6-A9B1-CADA7582EA55}|c#test2_sum2_Keshika\\c#test2_sum2_Keshika.csproj|solutionrelative:c#test2_sum2_keshika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466F5B74-8496-48B6-A9B1-CADA7582EA55}|c#test2_sum2_Keshika\\c#test2_sum2_Keshika.csproj|c:\\users\\dell\\source\\repos\\c#test2_sum2_keshika\\c#test2_sum2_keshika\\userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466F5B74-8496-48B6-A9B1-CADA7582EA55}|c#test2_sum2_Keshika\\c#test2_sum2_Keshika.csproj|solutionrelative:c#test2_sum2_keshika\\userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProgramCode.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\c#test2_sum2_Keshika\\c#test2_sum2_Keshika\\UserProgramCode.cs",
+              "RelativeDocumentMoniker": "c#test2_sum2_Keshika\\UserProgramCode.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\c#test2_sum2_Keshika\\c#test2_sum2_Keshika\\UserProgramCode.cs",
+              "RelativeToolTip": "c#test2_sum2_Keshika\\UserProgramCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:23:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\c#test2_sum2_Keshika\\c#test2_sum2_Keshika\\Program.cs",
+              "RelativeDocumentMoniker": "c#test2_sum2_Keshika\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\c#test2_sum2_Keshika\\c#test2_sum2_Keshika\\Program.cs",
+              "RelativeToolTip": "c#test2_sum2_Keshika\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:17:35.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

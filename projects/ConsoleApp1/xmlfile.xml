@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+<country name='India'>
+<city>Delhi</city>
+<city>Mumbai</city>
+<city>Hyderabad</city>
+</country>
+<country name='America'>
+<city>New York</city>
+<city>Manhattan</city>
+<city>Texas</city>
+</country>
+</countries>

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.AssemblyInfo.cs
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\bin\Debug\net8.0\my case study icecream.exe
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\bin\Debug\net8.0\my case study icecream.deps.json
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\bin\Debug\net8.0\my case study icecream.runtimeconfig.json
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\bin\Debug\net8.0\my case study icecream.dll
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\bin\Debug\net8.0\my case study icecream.pdb
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.dll
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\refint\my case study icecream.dll
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.pdb
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\my case study icecream.genruntimeconfig.cache
+C:\Users\dell\source\repos\my case study icecream\my case study icecream\obj\Debug\net8.0\ref\my case study icecream.dll

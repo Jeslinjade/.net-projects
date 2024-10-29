@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.AssemblyInfo.cs
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\bin\Debug\net8.0\multitaskdelegate.exe
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\bin\Debug\net8.0\multitaskdelegate.deps.json
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\bin\Debug\net8.0\multitaskdelegate.runtimeconfig.json
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\bin\Debug\net8.0\multitaskdelegate.dll
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\bin\Debug\net8.0\multitaskdelegate.pdb
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.dll
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\refint\multitaskdelegate.dll
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.pdb
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\multitaskdelegate.genruntimeconfig.cache
+C:\Users\dell\source\repos\multitaskdelegate\multitaskdelegate\obj\Debug\net8.0\ref\multitaskdelegate.dll

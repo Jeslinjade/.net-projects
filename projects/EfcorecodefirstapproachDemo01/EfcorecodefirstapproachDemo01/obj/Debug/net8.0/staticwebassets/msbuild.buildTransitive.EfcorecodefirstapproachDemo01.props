@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EfcorecodefirstapproachDemo01.props" />
+</Project>

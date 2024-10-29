@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\model\\ourheros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\model\\ourheros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|c:\\users\\dell\\source\\repos\\ourheroapiwithcodefirstapproach\\ourheroapiwithcodefirstapproach\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96386991-4683-473E-9787-137820E0AF39}|OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.csproj|solutionrelative:ourheroapiwithcodefirstapproach\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\WeatherForecast.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:25:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Services\\OurHeroService.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:34:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Program.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Program.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:16:55.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Services\\IOurHeroService.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:28:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OurHeroApiwithcodefirstapproach.http",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.http",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.http",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.http",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-24T07:14:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\appsettings.json",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\appsettings.json",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T07:14:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Model\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Model\\AddUpdateOurHero.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Model\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Model\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:19:23.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OurHeros.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Model\\OurHeros.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Model\\OurHeros.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Model\\OurHeros.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Model\\OurHeros.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:04:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OurHeroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Entity\\OurHeroDbContext.cs",
+              "RelativeDocumentMoniker": "OurHeroApiwithcodefirstapproach\\Entity\\OurHeroDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\OurHeroApiwithcodefirstapproach\\OurHeroApiwithcodefirstapproach\\Entity\\OurHeroDbContext.cs",
+              "RelativeToolTip": "OurHeroApiwithcodefirstapproach\\Entity\\OurHeroDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:01:54.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

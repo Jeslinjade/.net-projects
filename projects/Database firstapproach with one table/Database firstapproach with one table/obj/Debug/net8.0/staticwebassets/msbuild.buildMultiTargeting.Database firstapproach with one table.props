@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Database firstapproach with one table.props" />
+</Project>

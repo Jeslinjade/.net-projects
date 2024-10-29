@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "c#test2sum5_Keshika/1.0.0": {
+        "runtime": {
+          "c#test2sum5_Keshika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "c#test2sum5_Keshika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

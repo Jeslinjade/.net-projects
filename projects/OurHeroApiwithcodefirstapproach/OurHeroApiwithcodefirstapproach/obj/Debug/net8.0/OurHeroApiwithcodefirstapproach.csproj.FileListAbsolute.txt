@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.AssemblyInfo.cs
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\source\repos\OurHeroApiwithcodefirstapproach\OurHeroApiwithcodefirstapproach\obj\Debug\net8.0\OurHeroApiwithcodefirstapproach.MvcApplicationPartsAssemblyInfo.cache

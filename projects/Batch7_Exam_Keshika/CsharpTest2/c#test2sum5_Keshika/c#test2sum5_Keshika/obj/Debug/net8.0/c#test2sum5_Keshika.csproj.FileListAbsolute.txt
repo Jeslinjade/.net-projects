@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\bin\Debug\net8.0\c#test2sum5_Keshika.exe
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\bin\Debug\net8.0\c#test2sum5_Keshika.deps.json
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\bin\Debug\net8.0\c#test2sum5_Keshika.runtimeconfig.json
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\bin\Debug\net8.0\c#test2sum5_Keshika.dll
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\bin\Debug\net8.0\c#test2sum5_Keshika.pdb
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.AssemblyInfo.cs
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.dll
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\refint\c#test2sum5_Keshika.dll
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.pdb
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\c#test2sum5_Keshika.genruntimeconfig.cache
+C:\Users\dell\source\repos\c#test2sum5_Keshika\c#test2sum5_Keshika\obj\Debug\net8.0\ref\c#test2sum5_Keshika.dll
